@@ -1,0 +1,7 @@
+C:\Учебная практика\Неделя 2 Задание 6\prog6.4\prog6.4\bin\Debug\prog6.4.exe.config
+C:\Учебная практика\Неделя 2 Задание 6\prog6.4\prog6.4\bin\Debug\prog6.4.exe
+C:\Учебная практика\Неделя 2 Задание 6\prog6.4\prog6.4\bin\Debug\prog6.4.pdb
+C:\Учебная практика\Неделя 2 Задание 6\prog6.4\prog6.4\obj\Debug\prog6.4.csprojAssemblyReference.cache
+C:\Учебная практика\Неделя 2 Задание 6\prog6.4\prog6.4\obj\Debug\prog6.4.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Неделя 2 Задание 6\prog6.4\prog6.4\obj\Debug\prog6.4.exe
+C:\Учебная практика\Неделя 2 Задание 6\prog6.4\prog6.4\obj\Debug\prog6.4.pdb

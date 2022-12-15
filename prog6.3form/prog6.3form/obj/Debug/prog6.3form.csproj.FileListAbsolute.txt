@@ -1,0 +1,10 @@
+C:\Учебная практика\Неделя 2 Задание 6\prog6.3form\prog6.3form\bin\Debug\prog6.3form.exe.config
+C:\Учебная практика\Неделя 2 Задание 6\prog6.3form\prog6.3form\bin\Debug\prog6.3form.exe
+C:\Учебная практика\Неделя 2 Задание 6\prog6.3form\prog6.3form\bin\Debug\prog6.3form.pdb
+C:\Учебная практика\Неделя 2 Задание 6\prog6.3form\prog6.3form\obj\Debug\prog6.3form.csprojAssemblyReference.cache
+C:\Учебная практика\Неделя 2 Задание 6\prog6.3form\prog6.3form\obj\Debug\prog6._3form.Form1.resources
+C:\Учебная практика\Неделя 2 Задание 6\prog6.3form\prog6.3form\obj\Debug\prog6._3form.Properties.Resources.resources
+C:\Учебная практика\Неделя 2 Задание 6\prog6.3form\prog6.3form\obj\Debug\prog6.3form.csproj.GenerateResource.cache
+C:\Учебная практика\Неделя 2 Задание 6\prog6.3form\prog6.3form\obj\Debug\prog6.3form.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Неделя 2 Задание 6\prog6.3form\prog6.3form\obj\Debug\prog6.3form.exe
+C:\Учебная практика\Неделя 2 Задание 6\prog6.3form\prog6.3form\obj\Debug\prog6.3form.pdb
